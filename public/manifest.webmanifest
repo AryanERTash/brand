@@ -1,0 +1,13 @@
+{
+  "name": "Brand Banao Digital",
+  "short_name": "Brand Banao",
+  "description": "Websites, reels and local SEO for growing Indian businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "icons": [
+    { "src": "/logo1.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" }
+  ]
+}

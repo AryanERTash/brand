@@ -1,0 +1,17 @@
+# Brand Banao Digital
+
+> Brand Banao Digital is an Indian digital studio helping businesses and public leaders grow online with website development, social media content and local SEO.
+
+## Services
+
+- [Website development](/services): Custom responsive sites planned for speed, usability and enquiries.
+- [Reels and media](/services): Short-form video and social media content for brands and campaigns.
+- [Local SEO and growth](/services): Search visibility, Google Business Profile support and practical growth planning.
+
+## Pages
+
+- [About](/about): Studio background, team and working approach.
+- [Portfolio](/portfolio): Selected live client projects.
+- [Contact](/contact): Send a project enquiry or contact the studio on WhatsApp.
+- [Privacy Policy](/privacy)
+- [Terms and Conditions](/terms)

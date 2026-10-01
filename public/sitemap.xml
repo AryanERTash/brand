@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://brandbanaodigital.in/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://brandbanaodigital.in/services</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://brandbanaodigital.in/portfolio</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://brandbanaodigital.in/about</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://brandbanaodigital.in/contact</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://brandbanaodigital.in/terms</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://brandbanaodigital.in/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>

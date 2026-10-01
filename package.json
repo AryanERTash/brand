@@ -1,0 +1,7 @@
+{
+  "name": "brand-banao-digital",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": { "next": "^16.3.8", "react": "^18.3.1", "react-dom": "^18.3.1" }
+}
